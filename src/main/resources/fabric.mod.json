@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Fruits555000/stellaris-dwarf-planets-addon"
 	},
 	"license": "MIT",
 	"icon": "assets/stellaris_dwarfplanets_addon/icon.png",
