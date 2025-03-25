@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "stellaris_dwarfplanets_addon",
+	"version": "${version}",
+	"name": "Stellaris: Dwarf Planets Addon",
+	"description": "A Stellaris Addon that adds dwarf planets, dwarf planet candidates and their moons to the game.",
+	"authors": [
+		"Fruits555000"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/stellaris_dwarfplanets_addon/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.fruits555000.stellaris_dwarfplanets_addon.StellarisDwarfPlanetsAddon"
+		],
+		"fabric-datagen": [
+			"net.fruits555000.stellaris_dwarfplanets_addon.StellarisDwarfPlanetsAddonDataGenerator"
+		],
+		"client": [
+			"net.fruits555000.stellaris_dwarfplanets_addon.StellarisDwarfPlanetsAddonClient"
+		]
+	},
+	"mixins": [
+		"stellaris_dwarfplanets_addon.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.5",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
