@@ -1,0 +1,14 @@
+{
+  "system": "solar_system",
+  "level": "stellaris_dwarfplanets_addon:ceres",
+  "name": "Ceres",
+  "translatable": "stellaris_dwarfplanets_addon.planet.ceres",
+  "oxygen": false,
+  "temperature": -100,
+  "distanceFromEarth": 67100,
+  "gravity": 0.27,
+  "textures": {
+    "planet":"stellaris_dwarfplanets_addon:textures/planet_bar/ceres_planet_bar.png",
+    "planet_bar": "stellaris_dwarfplanets_addon:textures/planet_bar/ceres_planet_bar.png"
+  }
+}
