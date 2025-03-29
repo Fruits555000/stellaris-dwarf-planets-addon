@@ -1,0 +1,14 @@
+{
+  "system": "solar_system",
+  "level": "stellaris_dwarfplanets_addon:makemake",
+  "name": "Makemake",
+  "translatable": "stellaris_dwarfplanets_addon.planet.makemake",
+  "oxygen": false,
+  "temperature": -243,
+  "distanceFromEarth": 220000,
+  "gravity": 0.5,
+  "textures": {
+    "planet":"stellaris_dwarfplanets_addon:textures/planet_bar/ceres_planet_bar.png",
+    "planet_bar": "stellaris_dwarfplanets_addon:textures/planet_bar/ceres_planet_bar.png"
+  }
+}

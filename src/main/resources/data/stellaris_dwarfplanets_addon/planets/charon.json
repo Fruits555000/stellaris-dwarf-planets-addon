@@ -1,0 +1,14 @@
+{
+  "system": "solar_system",
+  "level": "stellaris_dwarfplanets_addon:charon",
+  "name": "Charon",
+  "translatable": "stellaris_dwarfplanets_addon.moon.charon",
+  "oxygen": false,
+  "temperature": -232,
+  "distanceFromEarth": 180000,
+  "gravity": 0.288,
+  "textures": {
+    "planet":"stellaris_dwarfplanets_addon:textures/planet_bar/ceres_planet_bar.png",
+    "planet_bar": "stellaris_dwarfplanets_addon:textures/planet_bar/ceres_planet_bar.png"
+  }
+}

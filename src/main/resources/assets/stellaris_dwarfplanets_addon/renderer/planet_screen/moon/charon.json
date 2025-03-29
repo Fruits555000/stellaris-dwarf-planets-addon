@@ -1,0 +1,12 @@
+{
+  "texture": "stellaris_dwarfplanets_addon:textures/environment/solar_system/charon.png",
+  "name": "Charon",
+  "distance": 25,
+  "period": 950,
+  "width": 4,
+  "height": 4,
+  "parent": "stellaris_dwarfplanets_addon:pluto",
+  "dimensionId": "stellaris_dwarfplanets_addon:charon",
+  "translatable": "text.stellaris_dwarfplanets_addon.planetscreen.charon",
+  "id": "stellaris_dwarfplanets_addon:charon"
+}

@@ -1,0 +1,12 @@
+{
+  "texture": "stellaris_dwarfplanets_addon:textures/environment/solar_system/pluto.png",
+  "name": "Pluto",
+  "distance": 3950,
+  "period": 1984000,
+  "width": 7.5,
+  "height": 7.5,
+  "parent": "stellaris:sun",
+  "dimensionId": "stellaris_dwarfplanets_addon:pluto",
+  "translatable": "text.stellaris_dwarfplanets_addon.planetscreen.pluto",
+  "id": "stellaris_dwarfplanets_addon:pluto"
+}

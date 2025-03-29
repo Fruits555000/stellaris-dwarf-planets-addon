@@ -1,0 +1,12 @@
+{
+  "texture": "stellaris_dwarfplanets_addon:textures/environment/solar_system/ceres.png",
+  "name": "Ceres",
+  "distance": 180,
+  "period": 12000,
+  "width": 4,
+  "height": 4,
+  "parent": "stellaris:sun",
+  "dimensionId": "stellaris_dwarfplanets_addon:ceres",
+  "translatable": "text.stellaris_dwarfplanets_addon.planetscreen.ceres",
+  "id": "stellaris_dwarfplanets_addon:ceres"
+}

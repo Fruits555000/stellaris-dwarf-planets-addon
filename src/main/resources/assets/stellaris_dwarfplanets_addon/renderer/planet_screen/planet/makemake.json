@@ -1,0 +1,12 @@
+{
+  "texture": "stellaris_dwarfplanets_addon:textures/environment/solar_system/makemake.png",
+  "name": "Makemake",
+  "distance": 4545,
+  "period": 2440000,
+  "width": 7.5,
+  "height": 7.5,
+  "parent": "stellaris:sun",
+  "dimensionId": "stellaris_dwarfplanets_addon:makemake",
+  "translatable": "text.stellaris_dwarfplanets_addon.planetscreen.makemake",
+  "id": "stellaris_dwarfplanets_addon:makemake"
+}
