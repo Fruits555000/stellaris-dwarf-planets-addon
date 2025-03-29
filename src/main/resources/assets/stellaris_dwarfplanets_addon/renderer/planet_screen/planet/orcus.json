@@ -1,0 +1,12 @@
+{
+  "texture": "stellaris_dwarfplanets_addon:textures/environment/solar_system/orcus.png",
+  "name": "Orcus",
+  "distance": 3915,
+  "period": 1960000,
+  "width": 4,
+  "height": 4,
+  "parent": "stellaris:sun",
+  "dimensionId": "stellaris_dwarfplanets_addon:orcus",
+  "translatable": "text.stellaris_dwarfplanets_addon.planetscreen.orcus",
+  "id": "stellaris_dwarfplanets_addon:orcus"
+}

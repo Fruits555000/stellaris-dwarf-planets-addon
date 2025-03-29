@@ -1,12 +1,12 @@
 {
   "system": "solar_system",
-  "level": "stellaris_dwarfplanets_addon:charon",
-  "name": "Charon",
-  "translatable": "stellaris_dwarfplanets_addon.moon.charon",
+  "level": "stellaris_dwarfplanets_addon:vanth",
+  "name": "Vanth",
+  "translatable": "stellaris_dwarfplanets_addon.planet.vanth",
   "oxygen": false,
-  "temperature": -228,
-  "distanceFromEarth": 180000,
-  "gravity": 0.288,
+  "temperature": -229,
+  "distanceFromEarth": 170000,
+  "gravity": 0.12,
   "textures": {
     "planet":"stellaris_dwarfplanets_addon:textures/planet_bar/ceres_planet_bar.png",
     "planet_bar": "stellaris_dwarfplanets_addon:textures/planet_bar/ceres_planet_bar.png"

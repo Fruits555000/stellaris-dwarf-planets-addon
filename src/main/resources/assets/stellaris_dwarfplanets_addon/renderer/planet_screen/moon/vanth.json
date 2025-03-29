@@ -1,0 +1,12 @@
+{
+  "texture": "stellaris_dwarfplanets_addon:textures/environment/solar_system/vanth.png",
+  "name": "Vanth",
+  "distance": 15,
+  "period": 650,
+  "width": 2,
+  "height": 2,
+  "parent": "stellaris_dwarfplanets_addon:orcus",
+  "dimensionId": "stellaris_dwarfplanets_addon:vanth",
+  "translatable": "text.stellaris_dwarfplanets_addon.planetscreen.vanth",
+  "id": "stellaris_dwarfplanets_addon:vanth"
+}
